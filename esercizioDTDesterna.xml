@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TEI SYSTEM "C:/Users/gdm17/Documents/VSC/esercizioDTD2.dtd">
+<!--
+    studente: Gianmarco Di Mauro
+    matricola: 587959
+    corso: codifica di testo 19-20
+-->
+<TEI>
+    <header>
+        Contenuto
+    </header>
+    <text id='1'>
+        <figlio> 
+            contenuto 
+        </figlio>
+    </text>
+    <text id='2'>
+        contenuto
+    </text>
+</TEI>
