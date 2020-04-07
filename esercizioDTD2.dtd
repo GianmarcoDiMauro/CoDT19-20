@@ -1,8 +1,8 @@
 <!ELEMENT TEI (header, facsimile?, text+) >
 <!ELEMENT header (#PCDATA)>
 <!ELEMENT facsimile (#PCDATA)>
-<!ELEMENT text (#PCDATA|figlio)*>
-<!ELEMENT figlio (#PCDATA)>
+<!ELEMENT text (#PCDATA|sec)*>
+<!ELEMENT sec (#PCDATA)>
 
 
 <!ATTLIST header 

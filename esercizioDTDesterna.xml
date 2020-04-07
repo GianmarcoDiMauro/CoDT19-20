@@ -9,12 +9,12 @@
     <header>
         Contenuto
     </header>
-    <text id='1'>
-        <figlio> 
+    <text id="abc">
+        <sec> 
             contenuto 
-        </figlio>
+        </sec>
     </text>
-    <text id='2'>
+    <text id="bcd">
         contenuto
     </text>
 </TEI>
