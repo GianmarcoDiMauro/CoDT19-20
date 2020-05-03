@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TEI SYSTEM "D:/Documenti/Università/Informatica Umanistica/codifica/tei_all.dtd">
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I Malavoglia: versione elettronica</title>
+                <respStmt>
+                    <resp>Conversione a cura di</resp>
+                    <name> Gianmarco Di Mauro</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Editore esempio</publisher>
+                <date>3-05-2020</date>
+            </publicationStmt>
+            <sourceDesc>
+                <title> I Malavoglia </title>
+                <author> Giovanni Verga </author>
+                <publisher>Einaudi</publisher>
+                <date>1985</date>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="ch1" type="chapter">
+                <pb n="4"/><head> Capitolo 1 </head>
+                <p n="1"> Un tempo i <hi rend="italic">Malavoglia</hi> erano stati numerosi come i sassi della strada vecchia di Trezza;  
+                ce n'erano persino ad Ognina, e ad Aci Castello, tutti buona e brava gente di mare, proprio all'opposto di quel che
+                sembrava dal nomignolo, come dev'essere. Veramente nel libro della parrocchia si chiamavano Toscano, ma questo non voleva 
+                dir nulla, poiché da che il mondo era mondo, all'Ognina, a Trezza e ad Aci Castello, li avevano sempre conosciuti per 
+                Malavoglia, di padre in figlio, che avevano sempre avuto delle barche sull'acqua, e delle tegole al sole. Adesso a Trezza 
+                non rimanevano che i Malavoglia di padron 'Ntoni, quelli della casa del nespolo, e della <hi rend="italic">Provvidenza</hi> 
+                ch'era ammarrata sul greto, sotto il lavatoio, accanto alla <hi rend="italic"> Concetta</hi> dello zio Cola, e alla paranza 
+                di padron Fortunato <hi rend="italic">Cipolla</hi>.</p>
+                <p n="2">Le burrasche che avevano disperso di qua e di là gli altri Malavoglia, erano passate senza far gran danno sulla 
+                casa del nespolo e sulla barca ammarrata sotto il lavatoio; e padron 'Ntoni, per spiegare il miracolo, soleva dire, 
+                mostrando il pugno chiuso - <emph>un pugno che sembrava fatto di legno di noce</emph> - <q> Per menare il remo bisogna che le 
+                cinque dita s'aiutino l'un l'altro. </q></p>
+                <p n="3">Diceva pure: - <q>Gli uomini son fatti come le dita della mano: il dito grosso deve far da dito grosso, e il dito 
+                piccolo deve far da dito piccolo.</q></p>
+                <p n="4">E la <emph>famigliuola</emph> di padron 'Ntoni era realmente disposta come le dita della mano. Prima veniva lui, il dito 
+                grosso, che comandava le feste e le quarant'ore; poi suo figlio Bastiano, <hi rend="italic">Bastianazzo</hi>, perché <emph>era 
+                grande e grosso quanto il San Cristoforo</emph> che c'era dipinto sotto l'arco della pescheria della città; <emph>e così grande e 
+                grosso com'era filava diritto alla manovra comandata</emph>, e non si sarebbe soffiato il naso se suo padre non gli avesse detto 
+                <pb n="5"/><q>«soffiati il naso»</q> tanto che s'era tolta in moglie la Longa quando gli avevano detto <q>«pigliatela»</q>. Poi 
+                veniva <hi rend="italic">la Longa</hi>, una piccina che badava a tessere, salare le acciughe, e far figliuoli, da buona massaia; 
+                infine i nipoti, in ordine di anzianità: 'Ntoni il maggiore, un bighellone di vent'anni, che si buscava tutt'ora qualche 
+                scappellotto dal nonno, e qualche pedata più giù per rimettere l'equilibrio, quando lo scappellotto era stato troppo forte; 
+                Luca, <q>«che aveva più giudizio del grande»</q> ripeteva il nonno; Mena (Filomena) soprannominata <q>«Sant'Agata»</q> perché stava 
+                sempre al telaio, e si suol dire <q>«donna di telaio, gallina di pollaio, e triglia di gennaio»</q>; Alessi (Alessio) un moccioso 
+                <emph>tutto suo nonno colui!</emph>; e Lia (Rosalia) ancora né carne né pesce. - Alla domenica, quando entravano in chiesa, l'uno 
+                dietro l'altro, pareva una processione.</p>
+                <p n="5">Padron 'Ntoni sapeva anche certi <hi rend="italic">motti</hi> e proverbi che aveva sentito dagli antichi: <q>«Perché il
+                motto degli antichi mai mentì»: - «Senza pilota barca non cammina» - «Per far da papa bisogna saper far da sagrestano» </q>- oppure
+                 - <q>«Fa il mestiere che sai, che se non arricchisci camperai» - «Contentati di quel che t'ha fatto tuo padre; se non altro non 
+                 sarai un birbante»</q> ed altre sentenze giudiziose.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
