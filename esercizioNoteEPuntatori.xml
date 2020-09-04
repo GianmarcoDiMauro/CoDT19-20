@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TEI SYSTEM "C:/Users/gdm17/Documents/VSC/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Glossario filosofico: termini e autori </title>
+                <respStmt>
+                    <resp>Compilato da</resp>
+                    <name>Gianmarco Di Mauro</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher> Editore esempio</publisher>
+                <date>24-08-2020</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="Firrao">
+                    <title>Filosofia: dizionario</title>
+                    <author>Francesco Paolo Firrao</author>
+                    <publisher>Le Monnier</publisher>
+                    <date>2008</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <list type="gloss">
+            <head>PI - PO</head>
+            <label>etica</label>
+            <item>Piacere</item>
+            <label>fisica</label>
+            <item>Pneuma</item>
+            <label>logica</label>
+            <item>Positivo</item>
+            <label>logica</label>
+            <item>Possibilità</item>
+            <label>fisica</label>
+            <item>Potenza</item>
+        </list>
+
+        <note place="foot"> Per le definizioni si veda <ref target="#Firrao">Firrao,2008</ref></note>
+    </text>
+</TEI>
