@@ -56,6 +56,12 @@ table {
 	border: black solid 
 } 
 
+#immagini{
+	float: right;
+	position: relative;
+	top: 33px;
+}
+
 
 
 h1 {
