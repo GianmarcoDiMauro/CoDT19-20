@@ -24,10 +24,10 @@
 
     <xsl:template match="tei:facsimile">
         		<div class="allinea" id="immagini" style="overflow-x:auto;">
-					<img src="LL1.2_0001.jpg"/>
-					<img src="LL1.2_0002.jpg"/>
-					<img src="LL1.2_0003.jpg"/>
-					<img src="LL1.2_0004.jpg"/>
+					<img class="img" src="LL1.2_0001.jpg"/>
+					<img class="img" src="LL1.2_0002.jpg"/>
+					<img class="img" src="LL1.2_0003.jpg"/>
+					<img class="img" src="LL1.2_0004.jpg"/>
 
 				</div>	
     </xsl:template>
